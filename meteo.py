@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
-import requests
+import requests,os
+os.system('clear') 
 from datetime import datetime
 a = datetime.now().strftime('\033[1;31m%Y-%m-%d %H:%M')
 C = input('\033[1;36mEnter Your country : ')
