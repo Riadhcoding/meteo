@@ -1,4 +1,4 @@
 # Météo
 
 
-<img src 'Screenshot_1.jpg'>
+<img src="Screenshot_1.jpg">
